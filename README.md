@@ -67,6 +67,6 @@ Main modules:
 - Profile Management
 - Community System
 - AI Resume Analysis
-- Analytics & Ranking Engine
+- Analytics & Ranking Engine.
 
 ---
